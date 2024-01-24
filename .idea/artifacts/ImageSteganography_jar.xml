@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ImageSteganography:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageSteganography_jar</output-path>
+    <root id="archive" name="ImageSteganography.jar">
+      <element id="module-output" name="ImageSteganography" />
+    </root>
+  </artifact>
+</component>
